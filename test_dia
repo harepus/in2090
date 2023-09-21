@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2023-09-20T17:11:09.295Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.7.5" etag="dVAbwKgRGqDKuVbO0KsT" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-21T20:23:25.643Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="CbIwJGvLSaDWr749-tHw" version="21.8.0" type="github">
   <diagram name="Page-1" id="792T07bHCyosR_21s5l7">
-    <mxGraphModel>
+    <mxGraphModel dx="956" dy="528" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RqrnDrGC1BBch59ek7vf-1" value="MENNESKE" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="198" y="439" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RqrnDrGC1BBch59ek7vf-2" value="Personnr." style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="266" y="336" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RqrnDrGC1BBch59ek7vf-3" value="&lt;div&gt;Fornavn &amp;amp; etternavn&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="63" y="338" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RqrnDrGC1BBch59ek7vf-4" value="Fødselsdato" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="166" y="331" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RqrnDrGC1BBch59ek7vf-5" value="Alder" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="163" y="233" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
